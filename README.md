@@ -1,4 +1,4 @@
-****MERN Blog App********
+********MERN Blog App********
 
 A full stack blogging Progressive Web App (PWA) built with MongoDB, Express.js, React.js, and Node.js, featuring user authentication and social login via Google and Twitter.
 
