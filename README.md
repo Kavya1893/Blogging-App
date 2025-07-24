@@ -1,4 +1,4 @@
-**MERN Blog App**
+****MERN Blog App********
 
 A full stack blogging Progressive Web App (PWA) built with MongoDB, Express.js, React.js, and Node.js, featuring user authentication and social login via Google and Twitter.
 
@@ -49,6 +49,7 @@ Rich Editor: CKEditor 5
 Hosting: Heroku
 
 **📝 About**
+
 This is a blogging platform that allows users to read posts without logging in and enables authenticated users to create their own posts. It includes:
 
 Social login for easy authentication
